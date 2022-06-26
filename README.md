@@ -21,11 +21,7 @@ Splunk Enterprise configuration files that cannot be developed via the Add-on Bu
 The development process can be broken down into following main steps:
 
 1. Import into the Add-on Builder
-2. Developing in the Add-on Builder
-   - Configure Data Collection: Creating Python code
-   - Manage Source Types
-   - Extract Fields
-   - Map to Data Models
+2. Develop in the Add-on Builder
 3. Validate and Package (required)
 4. Export Add-on (required)
 5. Update out-of-band files (optional)
